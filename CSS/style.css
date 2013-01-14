@@ -270,7 +270,8 @@ margin-right:-15px;
 
 #banner{
 text-align:center;
-margin-bottom:15px;
+margin-top:-10px;
+margin-bottom:22px;
 }
 
 #banner a{
@@ -363,7 +364,7 @@ height:5px;
 
 #sidebar a{
    color:#08C;
-  
+    font-weight:normal;
     
 }
 
@@ -503,7 +504,7 @@ color:white;
 #wrapper h1{
 
 font-size:64px;
-
+font-weight:normal;
 }
 
 #wrapper a:hover{
@@ -516,7 +517,7 @@ color:#08C;
 #wrapper h2{
 font-size:20px;
 letter-spacing:5px;
-
+font-weight:normal;
 
 }
 
