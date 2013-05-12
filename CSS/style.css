@@ -580,3 +580,43 @@ display:none;
     color:#08C;
     
 }
+
+.country{
+    
+    margin-top:55px;
+    
+}
+
+.countrynav{
+    
+    position:fixed;
+    
+}
+
+.countrynav li{
+    
+    
+    
+}
+
+.countrynav img{
+    
+    
+    
+}
+
+.miscpics{
+    
+    border-style:solid;
+    border-width:0px 0px 1px 0px;
+    
+    
+    
+}
+
+.miscpics img{
+    padding: 10px;
+    max-height:100px;
+    
+}
+
